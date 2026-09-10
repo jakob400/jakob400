@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @jakob400
-- 👀 I’m interested in medical education and diagnostic apps. 
-- 🌱 I’m currently learning machine learning. 
-- 💞️ I’m looking to collaborate on app development. 
-- 📫 How to reach me: jakob (dot) 400 (at) gmail (dot) com.
+Commits daily. Ships annually.
